@@ -13,10 +13,10 @@ namespace CrudEnNetFramework.Models
         public  DataBaseSQLContext()
         {
             SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
-            builder.DataSource = "DESKTOP-5NSPV0V";
-            builder.InitialCatalog = "CRUD";
-            builder.UserID = "sa";
-            builder.Password = "123456";
+            builder.DataSource = "";
+            builder.InitialCatalog = "";
+            builder.UserID = "";
+            builder.Password = "";
 
             conn = new SqlConnection(builder.ConnectionString);
          
