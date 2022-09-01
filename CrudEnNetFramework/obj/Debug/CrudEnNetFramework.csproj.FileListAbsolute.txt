@@ -1,0 +1,11 @@
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\bin\Debug\CrudEnNetFramework.exe.config
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\bin\Debug\CrudEnNetFramework.exe
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\bin\Debug\CrudEnNetFramework.pdb
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\obj\Debug\CrudEnNetFramework.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\obj\Debug\CrudEnNetFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\obj\Debug\CrudEnNetFramework.Form1.resources
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\obj\Debug\CrudEnNetFramework.Properties.Resources.resources
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\obj\Debug\CrudEnNetFramework.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\obj\Debug\CrudEnNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\obj\Debug\CrudEnNetFramework.exe
+C:\Users\Artur\source\repos\CrudEnNetFramework\CrudEnNetFramework\obj\Debug\CrudEnNetFramework.pdb
